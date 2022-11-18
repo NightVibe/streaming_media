@@ -187,6 +187,10 @@ audio {
     background-color: #0D8DFB;
 }
 
+.personal section:hover {
+    background-color:#590242;
+}
+
 .personal-scroll {
     display: inline-grid;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
@@ -223,6 +227,10 @@ section p {
     margin-bottom: 8px;
     color: white;
     background-color: #020659;
+}
+
+.curated section:hover {
+    background-color: #590242;
 }
 
 .curated-scroll {
